@@ -1,0 +1,16 @@
+Matrix:
+7 9 7 2 4
+3 0 8 4 4
+7 6 5 5 1
+7 0 4 2 6
+5 1 7 2 3
+
+
+Original Matrix:
+7 9 7 2 4
+3 0 8 4 4
+7 6 5 5 1
+7 0 4 2 6
+5 1 7 2 3
+
+Sum of elements parallel to the main diagonal: 109
